@@ -1,4 +1,4 @@
-const quotes = [
+let quotes = [
   {
     quote:
       "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it. Passion is the driving force behind remarkable achievements. When you're deeply passionate about your work, challenges become opportunities, and every obstacle is a chance to learn and grow. Embrace your passion, and you'll unlock your true potential.",
